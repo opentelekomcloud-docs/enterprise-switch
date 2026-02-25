@@ -1,8 +1,12 @@
+---
 - project:
     merge-mode: squash-merge
     default-branch: main
     templates:
-      - helpcenter-base-jobs
+      - helpcenter-base-jobs-no-check
+    vars:
+      sphinx_pdf_files:
+        - esw-umn.pdf
     check:
       jobs:
         - noop
