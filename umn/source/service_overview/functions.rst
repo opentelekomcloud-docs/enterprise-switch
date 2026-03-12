@@ -21,7 +21,7 @@ For details, see :ref:`Enterprise Switches <esw_ug_0001>`.
 Layer 2 Connections
 -------------------
 
-A Layer 2 connection enable a local Layer 2 connection subnet and a remote VXLAN switch to communicate at Layer 2. Each Layer 2 connection connects a local and a remote Layer 2 connection subnet.
+A Layer 2 connection enables a local Layer 2 connection subnet and a remote VXLAN switch to communicate at Layer 2. Each Layer 2 connection connects a local and a remote Layer 2 connection subnet.
 
 After an enterprise switch is created, you need to create a Layer 2 connection.
 

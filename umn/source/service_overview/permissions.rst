@@ -13,6 +13,8 @@ If your account does not need individual IAM users for permissions management, s
 
 IAM can be used free of charge. You pay only for the resources in your account. For more information about IAM, see "Service Overview" in the *Identity and Access Management User Guide*.
 
+.. _esw_pd_0007__section199191227165020:
+
 Enterprise Switch Permissions
 -----------------------------
 

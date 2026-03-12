@@ -29,7 +29,7 @@ Procedure
 
 #. Click |image1| in the upper left corner and select the desired region and project.
 
-#. On the console homepage, choose **Network** > **Enterprise Switch**.
+#. Click |image2| in the upper left corner of the page to open the service list and choose **Network** > **Enterprise Switch**.
 
    The **Enterprise Switch** page is displayed.
 
@@ -130,3 +130,4 @@ Follow-Up Operations
 After an enterprise switch is created, you need to create a Layer 2 connection and configure a remote tunnel gateway. For details, see :ref:`Getting Started <esw_qs_0003>`.
 
 .. |image1| image:: /_static/images/en-us_image_0000002007168470.png
+.. |image2| image:: /_static/images/en-us_image_0000002555557291.png

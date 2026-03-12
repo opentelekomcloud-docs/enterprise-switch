@@ -24,7 +24,7 @@ Procedure
 
 2. Click |image1| in the upper left corner and select the desired region and project.
 
-3. On the console homepage, choose **Network** > **Enterprise Switch**.
+3. Click |image2| in the upper left corner of the page to open the service list and choose **Network** > **Enterprise Switch**.
 
    The **Enterprise Switch** page is displayed.
 
@@ -89,3 +89,4 @@ Procedure
    This operation takes 20 to 60 seconds to complete. If the status is **Not connected** or **Connected**, the Layer 2 connection is created.
 
 .. |image1| image:: /_static/images/en-us_image_0000002007168462.png
+.. |image2| image:: /_static/images/en-us_image_0000002555557853.png

@@ -24,4 +24,8 @@ Procedure
 
    For details, see `Configuring a Direct Connect Connection <https://docs.otc.t-systems.com/direct-connect/umn/getting_started/enabling_direct_connect/index.html#dc-02-0200>`__ or `Configuring a VPN Connection <https://docs.otc.t-systems.com/virtual-private-network/umn/getting_started/index.html>`__.
 
+   .. note::
+
+      Enterprise Switch can work together with VPNs of classic and enterprise editions.
+
 #. Submit a service ticket to check whether your Direct Connect or VPN connection supports VXLAN interconnection with an enterprise switch. If your connection does not support this, contact technical support.
