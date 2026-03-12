@@ -17,7 +17,7 @@ Procedure
 
 #. Click |image1| in the upper left corner and select the desired region and project.
 
-#. On the console homepage, choose **Network** > **Enterprise Switch**.
+#. Click |image2| in the upper left corner of the page to open the service list and choose **Network** > **Enterprise Switch**.
 
    The **Enterprise Switch** page is displayed.
 
@@ -27,10 +27,11 @@ Procedure
 
 #. In the lower part of the enterprise switch details page, locate the Layer 2 connection.
 
-#. Click |image2| next to the Layer 2 connection name and enter a new name.
+#. Click |image3| next to the Layer 2 connection name and enter a new name.
 
-#. Click |image3|.
+#. Click |image4|.
 
 .. |image1| image:: /_static/images/en-us_image_0000002007168458.png
-.. |image2| image:: /_static/images/en-us_image_0000001261674917.png
-.. |image3| image:: /_static/images/en-us_image_0000001261474973.png
+.. |image2| image:: /_static/images/en-us_image_0000002555437887.png
+.. |image3| image:: /_static/images/en-us_image_0000001261674917.png
+.. |image4| image:: /_static/images/en-us_image_0000001261474973.png

@@ -17,7 +17,7 @@ Procedure
 
 2. Click |image1| in the upper left corner and select the desired region and project.
 
-3. On the console homepage, choose **Network** > **Enterprise Switch**.
+3. Click |image2| in the upper left corner of the page to open the service list and choose **Network** > **Enterprise Switch**.
 
    The **Enterprise Switch** page is displayed.
 
@@ -25,10 +25,11 @@ Procedure
 
    The enterprise switch details page is displayed.
 
-5. Click |image2| next to the enterprise switch name and enter a new name.
+5. Click |image3| next to the enterprise switch name and enter a new name.
 
-6. Click |image3|.
+6. Click |image4|.
 
 .. |image1| image:: /_static/images/en-us_image_0000002007168466.png
-.. |image2| image:: /_static/images/en-us_image_0000002533128107.png
-.. |image3| image:: /_static/images/en-us_image_0000001261580447.png
+.. |image2| image:: /_static/images/en-us_image_0000002555437385.png
+.. |image3| image:: /_static/images/en-us_image_0000002533128107.png
+.. |image4| image:: /_static/images/en-us_image_0000001261580447.png

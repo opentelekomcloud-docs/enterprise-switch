@@ -17,7 +17,7 @@ Procedure
 
 2. Click |image1| in the upper left corner and select the desired region and project.
 
-3. On the console homepage, choose **Network** > **Enterprise Switch**.
+3. Click |image2| in the upper left corner of the page to open the service list and choose **Network** > **Enterprise Switch**.
 
    The **Enterprise Switch** page is displayed.
 
@@ -32,3 +32,4 @@ Procedure
    **Figure 1** Basic information about the enterprise switch
 
 .. |image1| image:: /_static/images/en-us_image_0000002007326746.png
+.. |image2| image:: /_static/images/en-us_image_0000002555437361.png
